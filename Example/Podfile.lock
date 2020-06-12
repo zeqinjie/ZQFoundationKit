@@ -1,0 +1,18 @@
+PODS:
+  - ZQFoundationKit (0.1.0):
+    - ZQFoundationKit/UIColorExtension (= 0.1.0)
+  - ZQFoundationKit/UIColorExtension (0.1.0)
+
+DEPENDENCIES:
+  - ZQFoundationKit (from `../`)
+
+EXTERNAL SOURCES:
+  ZQFoundationKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZQFoundationKit: da1916f9e9872ee115a1621733b1ff817c849a48
+
+PODFILE CHECKSUM: 394641757d9bcb9e35e76131189a9145a2284e77
+
+COCOAPODS: 1.9.1

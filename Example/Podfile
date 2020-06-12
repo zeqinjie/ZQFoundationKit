@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'ZQFoundationKit_Example' do
+  pod 'ZQFoundationKit', :path => '../'
+
+  target 'ZQFoundationKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
